@@ -1,2 +1,2 @@
 # portfolio for ya
-Портфолио будет дорабатываться до 20 февраля.
+adaptive version + animation
